@@ -3,7 +3,7 @@ name: 'Avoid workflow being suspended'
 on:
   workflow_dispatch:
   schedule:
-    - cron: '50 6 * * *'
+    - cron: '54 6 * * *'
 
 jobs:
   auto_renew:
