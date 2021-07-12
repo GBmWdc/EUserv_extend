@@ -9,8 +9,8 @@ USERNAME = os.environ["USERNAME"]
 PASSWORD = os.environ["PASSWORD"]
 TOKEN = ""
 PROXIES = {
-    "http": "http://127.0.0.1:10808",
-    "https": "http://127.0.0.1:10808"
+    "http": "http://127.0.0.1:10809",
+    "https": "http://127.0.0.1:10809"
 }
 
 
